@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+I am Daniel! An international student at Rotterdam University of Applied Sciences, with the ambition to become a Full-Stack Engineer and contribute to Computer Science research!
+
+I mainly love building web-applications, but also enjoy building projects with arduino's to develop products that improve my life.
+
+## My Tech Stack
+
+Frontend development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html, css, javascript, react, tailwind"/>
+  </a>
+</p>
+
+Backend development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php, laravel, nextjs, nodejs"/>
+  </a>
+</p>
+
+Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+  </a>
+</p>
+
+Hobby Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python, c++, arduino"/>
+  </a>
+</p>
 <!--
 **dtb354/dtb354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
