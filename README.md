@@ -8,7 +8,7 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 
 <p align="center">
-  <h1>Frontend development</h1>
+  <h3>Frontend development</h3>
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
   </a>
@@ -16,7 +16,7 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 
 <p align="center">
-  <h1>Backend development</h1>
+  <h3>Backend development</h3>
   <a href="">
     <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,nodejs"/>
   </a>
@@ -24,7 +24,7 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 
 <p align="center">
-  <h1>Databases</h1>
+  <h3>Databases</h3>
   <a href="">
     <img src="https://skillicons.dev/icons?i=mysql"/>
   </a>
@@ -32,7 +32,7 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 
 <p align="center">
-  <h1>Hobby Stack</h1>
+  <h3>Hobby Stack</h3>
   <a href="">
     <img src="https://skillicons.dev/icons?i=python,cpp,arduino"/>
   </a>
