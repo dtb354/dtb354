@@ -30,7 +30,7 @@ Databases
 Hobby Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c++,arduino"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino"/>
   </a>
 </p>
 <!--
