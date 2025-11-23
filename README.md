@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I am Daniel! An international student at Rotterdam University of Applied Sciences, with the ambition to become a Full-Stack Engineer and contribute to Computer Science research!
+<h3>
+  About me
+</h3>
+
+I am Daniel, an international student at Rotterdam University of Applied Sciences with the ambition to become a Full-Stack Engineer and contribute to Computer Science research!
 
 I mainly love building web-applications, but also enjoy building projects with arduino's to develop products that improve my life.
 
 ## My Tech Stack
-
 
 <p align="center">
   Frontend development
@@ -47,6 +50,7 @@ I mainly love building web-applications, but also enjoy building projects with a
     <img src="https://skillicons.dev/icons?i=python,cpp,arduino"/>
   </a>
 </p>
+
 <!--
 **dtb354/dtb354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
