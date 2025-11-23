@@ -8,28 +8,28 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 Frontend development
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
   </a>
 </p>
 
 Backend development
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,nodejs"/>
   </a>
 </p>
 
 Databases
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=mysql"/>
   </a>
 </p>
 
 Hobby Stack
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=python,cpp,arduino"/>
   </a>
 </p>
