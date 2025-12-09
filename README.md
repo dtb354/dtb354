@@ -8,6 +8,8 @@ I am Daniel, an international student at Rotterdam University of Applied Science
 
 I mainly love building web-applications, but also enjoy building projects with arduino's to develop products that improve my life.
 
+My dream is to use my skills in software engineering to build tools for 🏥🧑‍⚕️medical research/healthcare, 🎨✏️develop animation software, or compete at the highest stage of motorsports; 🏎️ Formula 1
+
 What I am currently working on:
 
 - Learning React + NextJS to start freelancing
