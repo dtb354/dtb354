@@ -48,7 +48,7 @@ I mainly love building web-applications, but also enjoy building projects with a
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=mysql, mongodb"/>
   </a>
 </p>
 
