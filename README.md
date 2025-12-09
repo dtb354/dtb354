@@ -8,6 +8,12 @@ I am Daniel, an international student at Rotterdam University of Applied Science
 
 I mainly love building web-applications, but also enjoy building projects with arduino's to develop products that improve my life.
 
+What I am currently working on:
+
+- Learning React + NextJS to start freelancing
+- 🦊🌳 A project for Natuurmonument: An animal clicker game that helps build the user's knowledge about the animal life in the Netherlands in a playful manner
+- 🧑‍🎓🏫 A bachelor's degree at Rotterdam University of Applied Sciences with the ambition to transfer to Utrecht University
+
 ## My Tech Stack
 
 <p align="center">
