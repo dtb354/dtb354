@@ -27,7 +27,18 @@ I mainly love building web-applications, but also enjoy building projects with a
 <p align="center">
   
   <a href="">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs"/>
+  </a>
+</p>
+
+<p align="center">
+  Fullstack development
+</p>
+
+<p align="center">
+  
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nextjs"/>
   </a>
 </p>
 
