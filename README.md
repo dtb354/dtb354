@@ -40,18 +40,19 @@ What I am currently working on:
     <img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs"/>
   </a>
 </p>
-<--?
+<!--
 <p align="center">
   Fullstack development
 </p>
 
+<!--
 <p align="center">
   
   <a href="">
     <img src="https://skillicons.dev/icons?i=nextjs"/>
   </a>
-</p>
--->
+</p> -->
+
 
 <p align="center">
   Databases
