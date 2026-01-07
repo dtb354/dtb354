@@ -26,7 +26,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ What I am currently working on:
     <img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs"/>
   </a>
 </p>
-
+<--?
 <p align="center">
   Fullstack development
 </p>
@@ -51,6 +51,7 @@ What I am currently working on:
     <img src="https://skillicons.dev/icons?i=nextjs"/>
   </a>
 </p>
+-->
 
 <p align="center">
   Databases
