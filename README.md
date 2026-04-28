@@ -16,7 +16,7 @@ What I am currently working on:
 
 - 🤖 Developing AI agents using LLMs and context & prompt engineering for integration in applications
 
-- Starting the hunt for internships! If you are interested you can contact me at dqt.standaard@gmail.com or any of my socials linked in my profile
+- Starting the hunt for internships! If you are interested in having a highly creative full-stack software developer/engineer you can contact me at dqt.standaard@gmail.com or any of my socials linked in my profile
 
 - 🧑‍🎓🏫 A bachelor's degree at Rotterdam University of Applied Sciences with the ambition to pursue a Master's in Software Engineering at University of Amsterdam OR Computing Science at University Utrecht
 
