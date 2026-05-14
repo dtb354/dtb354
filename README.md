@@ -14,6 +14,8 @@ What I am currently working on:
 
 - Learning React + NextJS to start freelancing
 
+- Contributing on an application with the goal to solve loneliness among first-year international students at the Rotterdam University of Applied Sciences
+
 - 🤖 Developing AI agents using LLMs and context & prompt engineering for integration in applications
 
 - Starting the hunt for internships! If you are interested in having a highly creative full-stack software developer/engineer you can contact me at dqt.standaard@gmail.com or any of my socials linked in my profile
