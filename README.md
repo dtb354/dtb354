@@ -14,7 +14,7 @@ What I am currently working on:
 
 - Learning React + NextJS to start freelancing
 
-- Learning Python + Flask for a revolutionary project for my internship project (want to know more? check out my LinkedIn: https://www.linkedin.com/in/daniel-dq-tran/)
+- Learning Python + Flask for a revolutionary project for my internship (want to know more? check out my LinkedIn: https://www.linkedin.com/in/daniel-dq-tran/)
 
 - Contributing on an application with the goal to solve loneliness among first-year international students at the Rotterdam University of Applied Sciences
 
