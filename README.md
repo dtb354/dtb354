@@ -6,7 +6,7 @@
 
 I am Daniel, an international student at Rotterdam University of Applied Sciences with the ambition to become a Full-Stack Engineer and contribute to Computer Science research!
 
-I mainly love building web-applications, but also enjoy building projects with arduino's to develop products that improve my life.
+I mainly love building web-applications, but also enjoy building projects with arduinos to develop products that improve my life.
 
 My dream is to use my skills in software engineering to build tools for 🏥🧑‍⚕️medical research/healthcare, 🎨✏️develop animation software, or compete at the highest stage of motorsports; 🏎️ Formula 1
 
@@ -16,9 +16,7 @@ What I am currently working on:
 
 - Learning Python + Flask for a revolutionary project for my internship (want to know more? check out my LinkedIn: https://www.linkedin.com/in/daniel-dq-tran/)
 
-- Contributing on an application with the goal to solve loneliness among first-year international students at the Rotterdam University of Applied Sciences
-
-- 🤖 Developing AI agents using LLMs and context & prompt engineering for integration in applications
+- 🤖 Developing an agentic AI tool for local business owners, providing an application to manage their staff and scheduling
 
 - Starting the hunt for internships! If you are interested in having a highly creative full-stack software developer/engineer you can contact me at dqt.standaard@gmail.com or any of my socials linked in my profile
 
