@@ -18,8 +18,6 @@ What I am currently working on:
 
 - 🤖 Developing an agentic AI tool for local business owners, providing an application to manage their staff and scheduling
 
-- Starting the hunt for internships! If you are interested in having a highly creative full-stack software developer/engineer you can contact me at dqt.standaard@gmail.com or any of my socials linked in my profile
-
 - 🧑‍🎓🏫 A bachelor's degree at Rotterdam University of Applied Sciences with the ambition to pursue a Master's in Software Engineering at University of Amsterdam OR Computing Science at University Utrecht
 
 ## My Tech Stack
