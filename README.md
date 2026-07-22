@@ -12,9 +12,9 @@ My dream is to use my skills in software engineering to build tools for 🏥🧑
 
 What I am currently working on:
 
-- Learning React + NextJS to start freelancing
+- Learning Python + Flask for the development of mijndnamedicatiepas.nl for Leiden University Medical Center (want to know more? check out my LinkedIn: https://www.linkedin.com/in/daniel-dq-tran/)
 
-- Learning Python + Flask for a revolutionary project for my internship (want to know more? check out my LinkedIn: https://www.linkedin.com/in/daniel-dq-tran/)
+- Learning React + NextJS to start freelancing
 
 - 🤖 Developing an agentic AI tool for local business owners, providing an application to manage their staff and scheduling
 
