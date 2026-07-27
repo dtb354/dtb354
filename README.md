@@ -72,7 +72,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,cpp,arduino"/>
+    <img src="https://skillicons.dev/icons?i=python,flask,cpp,arduino"/>
   </a>
 </p>
 
