@@ -39,7 +39,7 @@ What I am currently working on:
 <p align="center">
   
   <a href="">
-    <img src="https://skillicons.dev/icons?i=php,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,typescript,python"/>
   </a>
 </p>
 
@@ -60,7 +60,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,flask,cpp,arduino"/>
+    <img src="https://skillicons.dev/icons?i=cpp,arduino"/>
   </a>
 </p>
 
