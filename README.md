@@ -28,7 +28,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind"/>
   </a>
 </p>
 
@@ -39,22 +39,20 @@ What I am currently working on:
 <p align="center">
   
   <a href="">
-    <img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=php,nodejs"/>
   </a>
 </p>
-<!--
+
 <p align="center">
-  Fullstack development
+  Frameworks
 </p>
 
-<!--
 <p align="center">
   
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nextjs"/>
+    <img src="https://skillicons.dev/icons?i=laravel,express,react,nextjs,flask"/>
   </a>
-</p> -->
-
+</p>
 
 <p align="center">
   Databases
