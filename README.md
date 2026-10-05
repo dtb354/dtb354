@@ -60,7 +60,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres"/>
   </a>
 </p>
 
@@ -71,6 +71,16 @@ What I am currently working on:
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,arduino"/>
+  </a>
+</p>
+
+<p align="center">
+  Other tools
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github,figma"/>
   </a>
 </p>
 
