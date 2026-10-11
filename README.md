@@ -80,7 +80,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma"/>
   </a>
 </p>
 
