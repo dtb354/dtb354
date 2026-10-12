@@ -70,7 +70,7 @@ What I am currently working on:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=cpp,arduino"/>
+    <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi"/>
   </a>
 </p>
 
