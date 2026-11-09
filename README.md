@@ -65,6 +65,16 @@ What I am currently working on:
 </p>
 
 <p align="center">
+  Other tools
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma"/>
+  </a>
+</p>
+
+<p align="center">
   Hobby Stack
 </p>
 
@@ -74,15 +84,7 @@ What I am currently working on:
   </a>
 </p>
 
-<p align="center">
-  Other tools
-</p>
 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma"/>
-  </a>
-</p>
 
 <!--
 **dtb354/dtb354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
